@@ -1,7 +1,7 @@
 # upadyadesilva.github.io
 # Geeganage Upadya Sewmini
 <div style="text-align: center;">
-<img src="https://github.com/Dulanjali25/Dulanjali25.github.io/blob/main/WhatsApp%20Image%202024-09-28%20at%2020.10.15_43458e61.jpg?raw=true" alt="My Image" style="width: 180px; height: auto; border-radius: 50%;" />
+<img src="https://github.com/upadyadesilva/upadyadesilva.github.io/blob/main/WhatsApp%20Image%202024-06-30%20at%2010.57.56.jpeg?raw=true" alt="My Image" style="width: 180px; height: auto; border-radius: 50%;" />
 </div>
 
 ## About Me
