@@ -47,8 +47,8 @@
 - Time Management: Balancing academics, sports, and extracurricular activities effectivel
 
 ## Contact
-- [Your Email](sewminidesilva03@gmail.com)
-- [Contact Number](+94764361322)
+- [My Email](sewminidesilva03@gmail.com)
+- [My Contact Number](+94764361322)
 
 
 Thanks for visiting my portfolio!
