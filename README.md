@@ -45,6 +45,8 @@
 - Communication skill
 - Adaptability: Quick learner with the ability to adapt to new environments and challenges
 - Time Management: Balancing academics, sports, and extracurricular activities effectivel
+
+  ## Resume
 [Download My Resume](https://github.com/upadyadesilva/upadyadesilva.guthub.io/blob/main/Resume.pdf)
 
 ## Contact
