@@ -39,7 +39,7 @@
 - **Netball & Cricket:** School-level participation
 - **Senior Prefect:** CP/Pathadumbara National School (2017 - 2018)
 
-## Skills
+### Skills
 - Strong background in Biology and Mathematics
 - Team leadership and collaboration through sports and school roles
 - Communication skill
