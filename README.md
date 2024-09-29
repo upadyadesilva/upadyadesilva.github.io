@@ -2,7 +2,8 @@
 Welcome to My Portfolio!
 I’m Geeganage Upadya Sewmini, I studied at St. Anthony’s Girls’ College, Kandy, a 22-year-old student pursuing a Biotechnology degree at SLIIT. With a solid foundation in biological sciences, chemistry, and ICT, I aim to apply my knowledge in innovative projects.
 
-. I’m passionate about collaboration and eager to connect with others in the field. Explore my repositories to see my work!
+I’m passionate about collaboration and eager to connect with others in the field. Explore my repositories to see my work
+
 # Geeganage Upadya Sewmini
 <div style="text-align: left;">
 <img src="https://github.com/upadyadesilva/upadyadesilva.github.io/blob/main/WhatsApp%20Image%202024-06-30%20at%2010.57.56.jpeg?raw=true" alt="My Image" style="width: 180px; height: auto; border-radius: 50%;" />
