@@ -1,38 +1,49 @@
 # upadyadesilva.github.io
-# Welcome to My GitHub Portfolio!
+# Geeganage Upadya Sewmini
 
 ## About Me
-Hello! I'm [Your Name], a [Your Profession/Field] based in [Your Location]. I have a passion for [Your Interests/Technologies].
+- **Age:** 22
+- **Birthday:** October 4, 2002
+- **School:** St. Anthony's Girls' College, Kandy
+- **Current Status:** Undergraduate at SLIIT
+
+## Education
+
+### O/L Results
+- **Mathematics:** A
+- **Science:** C
+- **Buddhism:** A
+- **Sinhala:** A
+- **History:** B
+- **Dancing:** B
+- **Health:** B
+- **Commerce:** B
+- **English:** A
+
+### A/L Results
+- **Biology:** C
+- **Chemistry:** C
+- **Physics:** S
+
+### Additional Qualifications
+- **English Course:** Esoft
+- **NVQ Level 4 in ICT & Communication:** Navodya Technology Center
+
+## Extracurricular Activities
+- **Kabbadi:** (2013 - 2019)
+  - SATE Level Certificate
+  - All-Island Certificate
+- **Netball & Cricket:** School-level participation
+- **Senior Prefect:** CP/Pathadumbara National School (2017 - 2018)
 
 ## Skills
-- Programming Languages: [e.g., JavaScript, Python, etc.]
-- Frameworks/Libraries: [e.g., React, Django, etc.]
-- Tools: [e.g., Git, Docker, etc.]
-- Databases: [e.g., MySQL, MongoDB, etc.]
-
-## Projects
-
-### [Project Title 1](https://github.com/yourusername/project1)
-- **Description:** A brief description of what this project does.
-- **Technologies Used:** [e.g., HTML, CSS, JavaScript]
-- **Features:** 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-
-### [Project Title 2](https://github.com/yourusername/project2)
-- **Description:** A brief description of this project.
-- **Technologies Used:** [e.g., Python, Flask]
-- **Features:** 
-  - Feature 1
-  - Feature 2
+- Strong background in Biology and Mathematics
+- Team leadership and collaboration through sports and school roles
+- Proficient in English communication
 
 ## Contact
-Feel free to reach out to me via:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- [Your Email](mailto:youremail@example.com)
+- [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
----
 
 Thanks for visiting my portfolio!
