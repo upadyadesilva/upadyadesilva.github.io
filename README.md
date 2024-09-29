@@ -1,9 +1,4 @@
 # upadyadesilva.github.io
----
-layout: default
-title: Geeganage Upadya Sewmini
-theme: jekyll-theme-monokai
----
 # Geeganage Upadya Sewmini
 <div style="text-align: center;">
 <img src="https://github.com/upadyadesilva/upadyadesilva.github.io/blob/main/WhatsApp%20Image%202024-06-30%20at%2010.57.56.jpeg?raw=true" alt="My Image" style="width: 180px; height: auto; border-radius: 50%;" />
