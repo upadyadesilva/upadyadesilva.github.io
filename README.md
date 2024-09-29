@@ -51,4 +51,4 @@
 - [My Contact Number](+94764361322)
 
 
-Thanks for visiting my portfolio!
+Thanks for visiting my portfolio
