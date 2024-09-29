@@ -12,13 +12,13 @@
 ### O/L Results
 - **Mathematics:** A
 - **Science:** C
-- **Buddhism:** A
-- **Sinhala:** A
+- **Buddhism:** B
+- **Sinhala:** B
 - **History:** B
-- **Dancing:** B
-- **Health:** B
+- **Dancing:** C
+- **Health:** A
 - **Commerce:** B
-- **English:** A
+- **English:** B
 
 ### A/L Results
 - **Biology:** C
@@ -27,7 +27,7 @@
 
 ### Additional Qualifications
 - **English Course:** Esoft
-- **NVQ Level 4 in ICT & Communication:** Navodya Technology Center
+- **NVQ Level 4 in ICTT & Communication:** Navodya Technology Center
 
 ## Extracurricular Activities
 - **Kabbadi:** (2013 - 2019)
@@ -39,11 +39,13 @@
 ## Skills
 - Strong background in Biology and Mathematics
 - Team leadership and collaboration through sports and school roles
-- Proficient in English communication
+- Communication skill
+- Adaptability: Quick learner with the ability to adapt to new environments and challenges
+- Time Management: Balancing academics, sports, and extracurricular activities effectivel
 
 ## Contact
-- [Your Email](mailto:youremail@example.com)
-- [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- [Your Email](sewminidesilva03@gmail.com)
+- [Contact Number](+94764361322)
 
 
 Thanks for visiting my portfolio!
