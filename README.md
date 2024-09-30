@@ -52,8 +52,8 @@ I’m passionate about collaboration and eager to connect with others in the fie
 - Time Management: Balancing academics, sports, and extracurricular activities effectivel
 
   ## Resume
-[Download My Resume](https://github.com/upadyadesilva/upadyadesilva.guthub.io/blob/main/Resume.pdf)
-📄 [Download My Resume](https://link-to-your-resume.com/Resume.pdf)
+[Download My Resume](Resume.pdf)
+📄 [Download My Resume](https://Resume.pdf/Resume.pdf)
 
 ## Contact 
 📧 Email: [sewminidesilva03@gmail.com](mailto:sewminidesila03@gmail.com)  
