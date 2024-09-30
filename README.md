@@ -55,8 +55,8 @@ I’m passionate about collaboration and eager to connect with others in the fie
 [Download My Resume](https://github.com/upadyadesilva/upadyadesilva.guthub.io/blob/main/Resume.pdf)
 
 ## Contact 
-📧 Email: sewminidesilva03@gmail.com  
-📞 Contact: +94 764361322
+📧 Email: [sewminidesilva03@gmail.com](mailto:sewminidesila03@gmail.com)  
+📞 Contact: [+94 0764361322](+94 764361322)
 
 
 
