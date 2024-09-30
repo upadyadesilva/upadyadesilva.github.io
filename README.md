@@ -53,7 +53,6 @@ I’m passionate about collaboration and eager to connect with others in the fie
 
   ## Resume
 [Download My Resume](Resume.pdf)
-📄 [Download My Resume](https://Resume.pdf/Resume.pdf)
 
 ## Contact 
 📧 Email: [sewminidesilva03@gmail.com](mailto:sewminidesila03@gmail.com)  
